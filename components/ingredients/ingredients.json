@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_ingredients_ingredients",
+  "info": {
+    "name": "ingredients",
+    "icon": "cart-plus"
+  },
+  "options": {},
+  "attributes": {
+    "item": {
+      "type": "string",
+      "required": true
+    },
+    "amount": {
+      "type": "string"
+    }
+  }
+}
